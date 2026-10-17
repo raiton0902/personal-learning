@@ -1,4 +1,4 @@
-# personal-learning
+# Personal-Learning
 
 An AI tutoring skill that plans a course around your goals and materials, teaches step by step, and revisits earlier topics.
 
