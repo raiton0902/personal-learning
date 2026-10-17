@@ -84,11 +84,3 @@ personal-learning/
 > personal-learning contributors. (n.d.). *personal-learning* [AI tutoring skill].
 
 [CITATION.cff](CITATION.cff) contains citation metadata for tools that support it. When publishing, add the repository URL. Include a version or commit when citing a particular release, and cite the original studies when discussing their findings.
-
-## Related projects
-
-Other learning skills found during the initial research include [SugarMGP/study.skill](https://github.com/SugarMGP/study.skill), [derwells/learn-skill](https://github.com/derwells/learn-skill), and [human-aware-teaching-skill](https://github.com/yuanmingze2008/human-aware-teaching-skill). Their inclusion does not imply endorsement. The research claims above rely on the cited studies.
-
-## Publication and reuse
-
-No license has been selected yet. Before inviting others to modify or redistribute the project, add a license that states the permissions you want to grant. The linked papers are not included in this repository and retain their own rights.
