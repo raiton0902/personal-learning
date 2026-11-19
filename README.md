@@ -1,8 +1,8 @@
-# Personal-Learning
+# Personal Learning — AI Tutor & Custom Course Builder
 
-An AI tutoring skill that plans a course around your goals and materials, teaches step by step, and revisits earlier topics.
+An AI tutoring skill for **Claude Code, Cursor, Gemini CLI, Codex, and ChatGPT** that builds a custom study plan around your goals, teaches step by step, and schedules spaced-repetition reviews.
 
-Use it to study a subject over several lessons. It asks what you already know and what you want to learn, then proposes a curriculum. Lessons begin after you approve the plan. You can keep the course in chat or save a checkpoint to resume later.
+Use it to learn any subject—Python, C++, math, languages, or exam prep—over multiple lessons. It checks what you already know, maps lessons to your syllabus or textbook, and waits for your approval before teaching. You can keep progress in chat or export Markdown/PDF checkpoints to resume later.
 
 ## Installation and first use
 
@@ -84,3 +84,11 @@ personal-learning/
 > personal-learning contributors. (n.d.). *personal-learning* [AI tutoring skill].
 
 [CITATION.cff](CITATION.cff) contains citation metadata for tools that support it. When publishing, add the repository URL. Include a version or commit when citing a particular release, and cite the original studies when discussing their findings.
+
+## Related projects
+
+Other learning skills found during the initial research include [SugarMGP/study.skill](https://github.com/SugarMGP/study.skill), [derwells/learn-skill](https://github.com/derwells/learn-skill), and [human-aware-teaching-skill](https://github.com/yuanmingze2008/human-aware-teaching-skill). Their inclusion does not imply endorsement. The research claims above rely on the cited studies.
+
+## Publication and reuse
+
+No license has been selected yet. Before inviting others to modify or redistribute the project, add a license that states the permissions you want to grant. The linked papers are not included in this repository and retain their own rights.
